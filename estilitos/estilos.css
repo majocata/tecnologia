@@ -1,0 +1,76 @@
+.cata{
+	position:absolute;
+	background-color: black;
+	font-family: 'Dancing Script', cursive;
+	font-size: 450%;
+	top:2%;
+	left:20%;
+	height:0%;
+}
+.cata1{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Zilla Slab', serif;
+	font-size: 250%;
+	top:20%;
+	left:29%;
+	height:0%;
+}
+.cata2{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Zilla Slab', serif;
+	font-size: 250%;
+	top:20%;
+	left:50%;
+	height:0%;
+}
+.cata3{
+	position:absolute;
+	background-image: url(majo.JPG);
+	top:35%;
+	left:38%;
+	height:35%;
+	width: 20%; 
+	border: black 5px solid;
+}
+.cata4{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 250%;
+	top:77%;
+	left:13%;
+	height:0%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.cata5{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 250%;
+	top:77%;
+	left:33%;
+	height:0%;
+}
+.cata6{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 250%;
+	top:77%;
+	right:33%;
+	height:0%;
+}
+.cata7{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 250%;
+	top:77%;
+right:13%;
+	height:0%;
+}

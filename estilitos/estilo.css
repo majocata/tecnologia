@@ -1,0 +1,18 @@
+.rata{
+	position:absolute;
+	background-color: black;
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 450%;
+	top:2%;
+	left:40%;
+	height:0%;
+}
+.rata1{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 250%;
+	top:80%;
+	left:45%;
+	height:0%;
+}
