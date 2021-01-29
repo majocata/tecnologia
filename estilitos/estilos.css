@@ -27,12 +27,13 @@
 }
 .cata3{
 	position:absolute;
-	background-image: url(majo.JPG);
+	background-image: url(../majo.jpg);
 	top:35%;
 	left:38%;
 	height:35%;
 	width: 20%; 
 	border: black 5px solid;
+	background-size:cover;
 }
 .cata4{
 	position:absolute;
