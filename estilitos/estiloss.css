@@ -20,3 +20,12 @@ a{
 	text-decoration: none;
 	color: black;
 }
+.mata2{
+	position:absolute;
+	background-color: #4F5050;
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 250%;
+	top:25%;
+	left:10%;
+	height:0%;
+}
